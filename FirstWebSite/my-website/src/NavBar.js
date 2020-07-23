@@ -11,10 +11,7 @@ const NavBar = () => (
             <Link to="/about">About</Link>
         </li>
         <li>
-            <Link to="/article">Article</Link>
-        </li>
-        <li>
-            <Link to="/articles-list">Articles List</Link>
+            <Link to="/articles-list">Articles</Link>
         </li>
     </ui>
 </nav>
