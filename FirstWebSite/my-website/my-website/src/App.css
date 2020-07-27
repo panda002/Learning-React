@@ -1,6 +1,7 @@
 body {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   font-size: 18px;
+  background: rgb(245, 230, 182);
 }
 
 button {
@@ -23,7 +24,7 @@ nav {
   position: fixed;
   top: 0;
   width: 100%;
-  background: white;
+  background: rgb(240, 116, 116);
 }
 
 nav ul {
@@ -46,7 +47,7 @@ nav a {
 }
 
 nav a:hover {
-  background: black;
+  background: rgb(184, 73, 73);
   color: white;
 }
 
